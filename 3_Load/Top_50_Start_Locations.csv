@@ -1,0 +1,101 @@
+start_station_name,start_station_id,member_casual,avg_latitude,avg_longitude,total_count,member_count,casual_count
+Adler Planetarium,13431,casual,41.87,-87.61,11129,0,11129
+Ashland Ave & Division St,13061,member,41.9,-87.67,14394,14394,0
+Broadway & Barry Ave,13137,member,41.94,-87.64,16429,16429,0
+Broadway & Barry Ave,13137,casual,41.94,-87.64,7168,0,7168
+Broadway & Cornelia Ave,13278,member,41.95,-87.65,13483,13483,0
+Broadway & Waveland Ave,13325,member,41.95,-87.65,14402,14402,0
+Buckingham Fountain,15541.1.1,casual,41.87,-87.62,9877,0,9877
+Canal St & Adams St,13011,member,41.88,-87.64,17115,17115,0
+Canal St & Madison St,13341,member,41.88,-87.64,18423,18423,0
+Canal St & Madison St,13341,casual,41.88,-87.64,6849,0,6849
+Clark St & Armitage Ave,13146,casual,41.92,-87.64,9964,0,9964
+Clark St & Armitage Ave,13146,member,41.92,-87.64,14641,14641,0
+Clark St & Elm St,TA1307000039,member,41.9,-87.63,24293,24293,0
+Clark St & Elm St,TA1307000039,casual,41.9,-87.63,10552,0,10552
+Clark St & Lincoln Ave,13179,casual,41.92,-87.63,9879,0,9879
+Clark St & Lincoln Ave,13179,member,41.92,-87.63,14256,14256,0
+Clark St & Newport St,632,casual,41.94,-87.65,7266,0,7266
+Clark St & Wrightwood Ave,TA1305000014,member,41.93,-87.64,13407,13407,0
+Clinton St & Jackson Blvd,638,member,41.88,-87.64,20015,20015,0
+Clinton St & Lake St,13021,member,41.89,-87.64,15018,15018,0
+Clinton St & Madison St,TA1305000032,member,41.88,-87.64,24761,24761,0
+Clinton St & Madison St,TA1305000032,casual,41.88,-87.64,7875,0,7875
+Clinton St & Washington Blvd,WL-012,member,41.88,-87.64,27691,27691,0
+Clinton St & Washington Blvd,WL-012,casual,41.88,-87.64,6653,0,6653
+Columbus Dr & Randolph St,13263,casual,41.88,-87.62,8554,0,8554
+Columbus Dr & Randolph St,13263,member,41.88,-87.62,13037,13037,0
+Daley Center Plaza,TA1306000010,member,41.88,-87.63,15098,15098,0
+Dearborn Pkwy & Delaware Pl,TA1307000128,member,41.9,-87.63,15198,15198,0
+Dearborn Pkwy & Delaware Pl,TA1307000128,casual,41.9,-87.63,7296,0,7296
+Dearborn St & Erie St,13045,member,41.89,-87.63,17899,17899,0
+Dearborn St & Erie St,13045,casual,41.89,-87.63,7872,0,7872
+Dearborn St & Monroe St,TA1305000006,member,41.88,-87.63,13621,13621,0
+Desplaines St & Kinzie St,TA1306000003,member,41.89,-87.64,16375,16375,0
+Desplaines St & Kinzie St,TA1306000003,casual,41.89,-87.64,7279,0,7279
+DuSable Lake Shore Dr & Belmont Ave,TA1309000049,casual,41.94,-87.64,7305,0,7305
+DuSable Lake Shore Dr & Diversey Pkwy,TA1309000039,casual,41.93,-87.64,7994,0,7994
+DuSable Lake Shore Dr & Monroe St,13300,casual,41.88,-87.62,27569,0,27569
+DuSable Lake Shore Dr & North Blvd,LF-005,casual,41.91,-87.63,21019,0,21019
+DuSable Lake Shore Dr & North Blvd,LF-005,member,41.91,-87.63,16075,16075,0
+DuSable Lake Shore Dr & Wellington Ave,TA1307000041,casual,41.94,-87.64,6662,0,6662
+Dusable Harbor,KA1503000064,casual,41.89,-87.61,15650,0,15650
+Ellis Ave & 55th St,KA1504000076,member,41.79,-87.6,14276,14276,0
+Ellis Ave & 60th St,KA1503000014,member,41.79,-87.6,15559,15559,0
+Fairbanks Ct & Grand Ave,TA1305000003,casual,41.89,-87.62,6734,0,6734
+Field Museum,13029,casual,41.87,-87.62,9097,0,9097
+Green St & Madison St,TA1307000120,member,41.88,-87.65,14346,14346,0
+Halsted St & Clybourn Ave,331,member,41.91,-87.65,13677,13677,0
+Halsted St & Fulton St,23003,casual,41.89,-87.65,7323,0,7323
+Halsted St & Fulton St,23003,member,41.89,-87.65,14179,14179,0
+Halsted St & Polk St,TA1307000121,member,41.87,-87.65,13554,13554,0
+Indiana Ave & Roosevelt Rd,SL-005,casual,41.87,-87.62,10781,0,10781
+Indiana Ave & Roosevelt Rd,SL-005,member,41.87,-87.62,13658,13658,0
+Kingsbury St & Erie St,13265,member,41.89,-87.64,15468,15468,0
+Kingsbury St & Kinzie St,KA1503000043,member,41.89,-87.64,29146,29146,0
+Kingsbury St & Kinzie St,KA1503000043,casual,41.89,-87.64,9953,0,9953
+LaSalle St & Illinois St,13430,casual,41.89,-87.63,9268,0,9268
+LaSalle St & Illinois St,13430,member,41.89,-87.63,13945,13945,0
+Lakeview Ave & Fullerton Pkwy,TA1309000019,casual,41.93,-87.64,6768,0,6768
+Larrabee St & Kingsbury St,TA1306000009,member,41.9,-87.64,17392,17392,0
+Larrabee St & Webster Ave,13193,casual,41.92,-87.64,6765,0,6765
+Lincoln Park Conservatory,LP-,casual,41.92,-87.64,6641,0,6641
+Loomis St & Lexington St,13332,member,41.87,-87.66,15107,15107,0
+McClurg Ct & Ohio St,TA1306000029,casual,41.89,-87.62,7995,0,7995
+Michigan Ave & 8th St,623,casual,41.87,-87.62,11593,0,11593
+Michigan Ave & Lake St,TA1305000011,casual,41.89,-87.62,8611,0,8611
+Michigan Ave & Oak St,13042,casual,41.9,-87.62,21033,0,21033
+Michigan Ave & Oak St,13042,member,41.9,-87.62,14070,14070,0
+Michigan Ave & Washington St,13001,casual,41.88,-87.62,9973,0,9973
+Michigan Ave & Washington St,13001,member,41.88,-87.62,13724,13724,0
+Millennium Park,13008,casual,41.88,-87.62,19551,0,19551
+Montrose Harbor,TA1308000012,casual,41.96,-87.64,9257,0,9257
+Morgan St & Polk St,TA1307000130,member,41.87,-87.65,15932,15932,0
+New St & Illinois St,TA1306000013,casual,41.89,-87.62,9622,0,9622
+Orleans St & Merchandise Mart Plaza,TA1305000022,member,41.89,-87.64,13619,13619,0
+Ravenswood Ave & Lawrence Ave,TA1309000066,member,41.97,-87.67,13643,13643,0
+Shedd Aquarium,15544,casual,41.87,-87.62,19284,0,19284
+Sheffield Ave & Fullerton Ave,TA1306000016,member,41.93,-87.65,14424,14424,0
+Sheffield Ave & Waveland Ave,TA1307000126,casual,41.95,-87.65,6894,0,6894
+State St & 33rd St,13216,member,41.83,-87.63,14091,14091,0
+State St & Chicago Ave,21544,member,41.9,-87.63,18952,18952,0
+State St & Chicago Ave,21544,casual,41.9,-87.63,7745,0,7745
+Streeter Dr & Grand Ave,13022,casual,41.89,-87.61,42945,0,42945
+Streeter Dr & Grand Ave,13022,member,41.89,-87.61,14415,14415,0
+Theater on the Lake,TA1308000001,casual,41.93,-87.63,15065,0,15065
+University Ave & 57th St,KA1503000071,member,41.79,-87.6,18320,18320,0
+Wabash Ave & Grand Ave,TA1307000117,casual,41.89,-87.63,10008,0,10008
+Wabash Ave & Grand Ave,TA1307000117,member,41.89,-87.63,15308,15308,0
+Wabash Ave & Roosevelt Rd,TA1305000002,member,41.87,-87.63,14082,14082,0
+Wabash Ave & Roosevelt Rd,TA1305000002,casual,41.87,-87.63,7142,0,7142
+Wells St & Concord Ln,TA1308000050,member,41.91,-87.63,20625,20625,0
+Wells St & Concord Ln,TA1308000050,casual,41.91,-87.63,11127,0,11127
+Wells St & Elm St,KA1504000135,member,41.9,-87.63,20356,20356,0
+Wells St & Elm St,KA1504000135,casual,41.9,-87.63,9820,0,9820
+Wells St & Evergreen Ave,TA1308000049,casual,41.91,-87.63,6930,0,6930
+Wells St & Hubbard St,TA1307000151,member,41.89,-87.63,16158,16158,0
+Wells St & Hubbard St,TA1307000151,casual,41.89,-87.63,7624,0,7624
+Wells St & Huron St,TA1306000012,member,41.89,-87.63,16180,16180,0
+Wells St & Huron St,TA1306000012,casual,41.89,-87.63,8169,0,8169
+Wilton Ave & Belmont Ave,TA1307000134,member,41.94,-87.65,15896,15896,0
+Wilton Ave & Belmont Ave,TA1307000134,casual,41.94,-87.65,8146,0,8146

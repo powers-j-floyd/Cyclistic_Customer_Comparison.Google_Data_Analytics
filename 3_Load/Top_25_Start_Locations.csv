@@ -1,0 +1,51 @@
+start_station_name,start_station_id,member_casual,avg_latitude,avg_longitude,total_count,member_count,casual_count
+Streeter Dr & Grand Ave,13022,casual,41.89,-87.61,42945,0,42945
+DuSable Lake Shore Dr & Monroe St,13300,casual,41.88,-87.62,27569,0,27569
+Michigan Ave & Oak St,13042,casual,41.9,-87.62,21033,0,21033
+DuSable Lake Shore Dr & North Blvd,LF-005,casual,41.91,-87.63,21019,0,21019
+Millennium Park,13008,casual,41.88,-87.62,19551,0,19551
+Shedd Aquarium,15544,casual,41.87,-87.62,19284,0,19284
+Dusable Harbor,KA1503000064,casual,41.89,-87.61,15650,0,15650
+Theater on the Lake,TA1308000001,casual,41.93,-87.63,15065,0,15065
+Michigan Ave & 8th St,623,casual,41.87,-87.62,11593,0,11593
+Adler Planetarium,13431,casual,41.87,-87.61,11129,0,11129
+Wells St & Concord Ln,TA1308000050,casual,41.91,-87.63,11127,0,11127
+Indiana Ave & Roosevelt Rd,SL-005,casual,41.87,-87.62,10781,0,10781
+Clark St & Elm St,TA1307000039,casual,41.9,-87.63,10552,0,10552
+Wabash Ave & Grand Ave,TA1307000117,casual,41.89,-87.63,10008,0,10008
+Michigan Ave & Washington St,13001,casual,41.88,-87.62,9973,0,9973
+Clark St & Armitage Ave,13146,casual,41.92,-87.64,9964,0,9964
+Kingsbury St & Kinzie St,KA1503000043,casual,41.89,-87.64,9953,0,9953
+Clark St & Lincoln Ave,13179,casual,41.92,-87.63,9879,0,9879
+Buckingham Fountain,15541.1.1,casual,41.87,-87.62,9877,0,9877
+Wells St & Elm St,KA1504000135,casual,41.9,-87.63,9820,0,9820
+New St & Illinois St,TA1306000013,casual,41.89,-87.62,9622,0,9622
+LaSalle St & Illinois St,13430,casual,41.89,-87.63,9268,0,9268
+Montrose Harbor,TA1308000012,casual,41.96,-87.64,9257,0,9257
+Field Museum,13029,casual,41.87,-87.62,9097,0,9097
+Michigan Ave & Lake St,TA1305000011,casual,41.89,-87.62,8611,0,8611
+Kingsbury St & Kinzie St,KA1503000043,member,41.89,-87.64,29146,29146,0
+Clinton St & Washington Blvd,WL-012,member,41.88,-87.64,27691,27691,0
+Clinton St & Madison St,TA1305000032,member,41.88,-87.64,24761,24761,0
+Clark St & Elm St,TA1307000039,member,41.9,-87.63,24293,24293,0
+Wells St & Concord Ln,TA1308000050,member,41.91,-87.63,20625,20625,0
+Wells St & Elm St,KA1504000135,member,41.9,-87.63,20356,20356,0
+Clinton St & Jackson Blvd,638,member,41.88,-87.64,20015,20015,0
+State St & Chicago Ave,21544,member,41.9,-87.63,18952,18952,0
+Canal St & Madison St,13341,member,41.88,-87.64,18423,18423,0
+University Ave & 57th St,KA1503000071,member,41.79,-87.6,18320,18320,0
+Dearborn St & Erie St,13045,member,41.89,-87.63,17899,17899,0
+Larrabee St & Kingsbury St,TA1306000009,member,41.9,-87.64,17392,17392,0
+Canal St & Adams St,13011,member,41.88,-87.64,17115,17115,0
+Broadway & Barry Ave,13137,member,41.94,-87.64,16429,16429,0
+Desplaines St & Kinzie St,TA1306000003,member,41.89,-87.64,16375,16375,0
+Wells St & Huron St,TA1306000012,member,41.89,-87.63,16180,16180,0
+Wells St & Hubbard St,TA1307000151,member,41.89,-87.63,16158,16158,0
+DuSable Lake Shore Dr & North Blvd,LF-005,member,41.91,-87.63,16075,16075,0
+Morgan St & Polk St,TA1307000130,member,41.87,-87.65,15932,15932,0
+Wilton Ave & Belmont Ave,TA1307000134,member,41.94,-87.65,15896,15896,0
+Ellis Ave & 60th St,KA1503000014,member,41.79,-87.6,15559,15559,0
+Kingsbury St & Erie St,13265,member,41.89,-87.64,15468,15468,0
+Wabash Ave & Grand Ave,TA1307000117,member,41.89,-87.63,15308,15308,0
+Dearborn Pkwy & Delaware Pl,TA1307000128,member,41.9,-87.63,15198,15198,0
+Loomis St & Lexington St,13332,member,41.87,-87.66,15107,15107,0
