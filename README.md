@@ -1,4 +1,4 @@
-# Cyclistics Customer Comparison - Google Data Analytics Capstone
+# Cyclistic Customer Comparison - Google Data Analytics Capstone
 This project is part of the Google Data Analytics Capstone project through Coursera. It analyzes customer ride patterns for the ficticious bike share company 'Cyclistic' to compare behavior between casual and member riders. In this scenario, insights from the project will be used to design a marketing strategy to convert casual riders into members. 
 
 ## Technologies Used
